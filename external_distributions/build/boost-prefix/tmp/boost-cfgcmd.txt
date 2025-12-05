@@ -1,0 +1,1 @@
+cmd='./bootstrap.sh;--prefix=<INSTALL_DIR>;--with-libraries=thread,system,program_options;CXX=/usr/bin/c++;CC=/usr/bin/cc'

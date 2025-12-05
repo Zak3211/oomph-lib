@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/metis"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/metis.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/metis-complete.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis-stamp/metis-build.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis-stamp/metis-configure.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis-stamp/metis-download.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis-stamp/metis-install.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis-stamp/metis-mkdir.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis-stamp/metis-patch_disconnected.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis-stamp/metis-test.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis-stamp/metis-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"metis"
+		],
+		"name" : "metis"
+	}
+}

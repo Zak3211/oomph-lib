@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/gklib"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/gklib.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/gklib-complete.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/gklib-prefix/src/gklib-stamp/gklib-build.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/gklib-prefix/src/gklib-stamp/gklib-configure.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/gklib-prefix/src/gklib-stamp/gklib-download.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/gklib-prefix/src/gklib-stamp/gklib-install.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/gklib-prefix/src/gklib-stamp/gklib-mkdir.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/gklib-prefix/src/gklib-stamp/gklib-patch_disconnected.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/gklib-prefix/src/gklib-stamp/gklib-test.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/gklib-prefix/src/gklib-stamp/gklib-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gklib"
+		],
+		"name" : "gklib"
+	}
+}

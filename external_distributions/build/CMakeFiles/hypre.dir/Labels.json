@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/hypre"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/hypre.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/hypre-complete.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/hypre-prefix/src/hypre-stamp/hypre-build.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/hypre-prefix/src/hypre-stamp/hypre-configure.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/hypre-prefix/src/hypre-stamp/hypre-download.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/hypre-prefix/src/hypre-stamp/hypre-install.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/hypre-prefix/src/hypre-stamp/hypre-mkdir.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/hypre-prefix/src/hypre-stamp/hypre-patch_disconnected.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/hypre-prefix/src/hypre-stamp/hypre-test.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/hypre-prefix/src/hypre-stamp/hypre-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hypre"
+		],
+		"name" : "hypre"
+	}
+}

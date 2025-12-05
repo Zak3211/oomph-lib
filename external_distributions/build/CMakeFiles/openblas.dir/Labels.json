@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/openblas"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/openblas.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/openblas-complete.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/openblas-prefix/src/openblas-stamp/openblas-build.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/openblas-prefix/src/openblas-stamp/openblas-configure.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/openblas-prefix/src/openblas-stamp/openblas-download.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/openblas-prefix/src/openblas-stamp/openblas-install.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/openblas-prefix/src/openblas-stamp/openblas-mkdir.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/openblas-prefix/src/openblas-stamp/openblas-patch_disconnected.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/openblas-prefix/src/openblas-stamp/openblas-test.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/openblas-prefix/src/openblas-stamp/openblas-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openblas"
+		],
+		"name" : "openblas"
+	}
+}

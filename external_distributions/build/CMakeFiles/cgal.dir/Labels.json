@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/cgal"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/cgal.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/cgal-complete.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/cgal-prefix/src/cgal-stamp/cgal-build.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/cgal-prefix/src/cgal-stamp/cgal-configure.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/cgal-prefix/src/cgal-stamp/cgal-download.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/cgal-prefix/src/cgal-stamp/cgal-install.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/cgal-prefix/src/cgal-stamp/cgal-mkdir.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/cgal-prefix/src/cgal-stamp/cgal-patch_disconnected.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/cgal-prefix/src/cgal-stamp/cgal-test.rule"
+		},
+		{
+			"file" : "/home/zak3211/projects/oomph-lib/external_distributions/build/cgal-prefix/src/cgal-stamp/cgal-update_disconnected.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"cgal"
+		],
+		"name" : "cgal"
+	}
+}

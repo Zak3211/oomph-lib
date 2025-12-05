@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;--install-prefix=<INSTALL_DIR>;-G=Ninja;-DCMAKE_BUILD_TYPE=Release;-DNO_X86=0;-B=build'

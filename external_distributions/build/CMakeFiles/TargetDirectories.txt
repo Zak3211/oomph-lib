@@ -1,0 +1,12 @@
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/openblas.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/gklib.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/metis.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/superlu.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/boost.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/cgal.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/mumps.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/hypre.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/trilinos.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/print_usage_message_after_build.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/edit_cache.dir
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/rebuild_cache.dir

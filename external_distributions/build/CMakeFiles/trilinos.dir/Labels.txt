@@ -1,0 +1,14 @@
+# Target labels
+ trilinos
+# Source files and their labels
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/trilinos
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/trilinos.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/trilinos-complete.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/trilinos-prefix/src/trilinos-stamp/trilinos-build.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/trilinos-prefix/src/trilinos-stamp/trilinos-configure.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/trilinos-prefix/src/trilinos-stamp/trilinos-download.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/trilinos-prefix/src/trilinos-stamp/trilinos-install.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/trilinos-prefix/src/trilinos-stamp/trilinos-mkdir.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/trilinos-prefix/src/trilinos-stamp/trilinos-patch_disconnected.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/trilinos-prefix/src/trilinos-stamp/trilinos-test.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/trilinos-prefix/src/trilinos-stamp/trilinos-update_disconnected.rule

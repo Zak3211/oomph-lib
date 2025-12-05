@@ -1,0 +1,14 @@
+# Target labels
+ superlu
+# Source files and their labels
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/superlu
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/superlu.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/CMakeFiles/superlu-complete.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/superlu-prefix/src/superlu-stamp/superlu-build.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/superlu-prefix/src/superlu-stamp/superlu-configure.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/superlu-prefix/src/superlu-stamp/superlu-download.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/superlu-prefix/src/superlu-stamp/superlu-install.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/superlu-prefix/src/superlu-stamp/superlu-mkdir.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/superlu-prefix/src/superlu-stamp/superlu-patch_disconnected.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/superlu-prefix/src/superlu-stamp/superlu-test.rule
+/home/zak3211/projects/oomph-lib/external_distributions/build/superlu-prefix/src/superlu-stamp/superlu-update_disconnected.rule

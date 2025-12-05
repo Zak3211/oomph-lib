@@ -1,0 +1,21 @@
+rm -rf build
+mkdir -p build
+mkdir -p build/xinclude
+echo "#define IDXTYPEWIDTH 32" > build/xinclude/metis.h
+echo "#define REALTYPEWIDTH 32" >> build/xinclude/metis.h
+cat include/metis.h >> build/xinclude/metis.h
+cp include/CMakeLists.txt build/xinclude
+cd build && cmake /home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis -DCMAKE_VERBOSE_MAKEFILE=1 -DGKLIB_PATH=/home/zak3211/projects/oomph-lib/external_distributions/install/gklib -DCMAKE_INSTALL_PREFIX=/home/zak3211/projects/oomph-lib/external_distributions/install/metis -DCMAKE_C_COMPILER=/usr/bin/cc
+-- The C compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Looking for execinfo.h
+-- Looking for execinfo.h - found
+-- Looking for getline
+-- Looking for getline - found
+-- Configuring done (1.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/zak3211/projects/oomph-lib/external_distributions/build/metis-prefix/src/metis/build

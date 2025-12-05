@@ -1,0 +1,27 @@
+[1;35m
+Now the libraries have been built, you can use the following command to configure the main oomph-lib project:
+
+ 	cmake -G Ninja -DCMAKE_BUILD_TYPE=Release -DOOMPH_USE_OPENBLAS_FROM=/home/zak3211/projects/oomph-lib/external_distributions/install/openblas -DOOMPH_USE_GKLIB_FROM=/home/zak3211/projects/oomph-lib/external_distributions/install/gklib -DOOMPH_USE_METIS_FROM=/home/zak3211/projects/oomph-lib/external_distributions/install/metis -DOOMPH_USE_SUPERLU_FROM=/home/zak3211/projects/oomph-lib/external_distributions/install/superlu -DOOMPH_USE_BOOST_FROM=/home/zak3211/projects/oomph-lib/external_distributions/install/boost -DOOMPH_USE_CGAL_FROM=/home/zak3211/projects/oomph-lib/external_distributions/install/cgal -DOOMPH_USE_MUMPS_FROM=/home/zak3211/projects/oomph-lib/external_distributions/install/mumps -DOOMPH_USE_HYPRE_FROM=/home/zak3211/projects/oomph-lib/external_distributions/install/hypre -DOOMPH_USE_TRILINOS_FROM=/home/zak3211/projects/oomph-lib/external_distributions/install/trilinos -B build
+
+Alternatively, if you're using a preset file, place the following under the "cacheVariables" key:
+
+       "CMAKE_BUILD_TYPE": "Release",
+       "OOMPH_USE_OPENBLAS_FROM": "/home/zak3211/projects/oomph-lib/external_distributions/install/openblas",
+       "OOMPH_USE_GKLIB_FROM": "/home/zak3211/projects/oomph-lib/external_distributions/install/gklib",
+       "OOMPH_USE_METIS_FROM": "/home/zak3211/projects/oomph-lib/external_distributions/install/metis",
+       "OOMPH_USE_SUPERLU_FROM": "/home/zak3211/projects/oomph-lib/external_distributions/install/superlu",
+       "OOMPH_USE_BOOST_FROM": "/home/zak3211/projects/oomph-lib/external_distributions/install/boost",
+       "OOMPH_USE_CGAL_FROM": "/home/zak3211/projects/oomph-lib/external_distributions/install/cgal",
+       "OOMPH_USE_MUMPS_FROM": "/home/zak3211/projects/oomph-lib/external_distributions/install/mumps",
+       "OOMPH_USE_HYPRE_FROM": "/home/zak3211/projects/oomph-lib/external_distributions/install/hypre",
+       "OOMPH_USE_TRILINOS_FROM": "/home/zak3211/projects/oomph-lib/external_distributions/install/trilinos"
+
+I've also printed these values to the file:
+
+	install/cmake_flags_for_oomph_lib.txt
+
+so you could simply jump up to the root oomph-lib directory and run:
+
+	cmake -G Ninja $(cat external_distributions/install/cmake_flags_for_oomph_lib.txt) -B build
+
+Clever, I know![m
